@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  logo: logo.png
+  title: AssistOBot
+  label: Docs
+links:
+- text: Invite Bot
+  icon: discord
+  link: https://discord.com/oauth2/authorize?client_id=1322622598298865765&scope=bot&permissions=27648860286
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
